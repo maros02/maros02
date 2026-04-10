@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎓 MSc in Data Science and Artificial Intelligence Technology at TU Delft.
-- 📊 Interested in **data**! Bridging the gap between *unstructured data* and *useful insights*.
-- ⚙️ Interested in **software engineering**! Building robust and reliable software solutions.
-- 🌱 Always learning through personal projects and hands-on experimentation.
+- MSc in Data Science and Artificial Intelligence Technology at TU Delft.
+- Interested in **data**! Bridging the gap between *unstructured data* and *useful insights*.
+- Interested in **software engineering**! Building robust and reliable software solutions.
+- Always learning through personal projects and hands-on experimentation.
 
 ### Tech Stack!
 
